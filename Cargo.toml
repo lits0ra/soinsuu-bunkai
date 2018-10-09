@@ -1,0 +1,7 @@
+[package]
+name = "soinsuu-bunkai"
+version = "0.1.0"
+authors = ["s0ralit <s0ralit@protonmail.com>"]
+
+[dependencies]
+primal = "0.2"
